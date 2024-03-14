@@ -18,7 +18,7 @@
 
 ## Deploy To Heroku
 
-<a href="https://heroku.com/deploy?template=https://github.com/Snowball-01/Sigma-Rename-Bot"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
+<a href="https://heroku.com/deploy?template=https://github.com/arindam69x/Metadata-renamer"><img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy"></a>
 
 ## Configs
 
