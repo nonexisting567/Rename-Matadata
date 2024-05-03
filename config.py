@@ -51,7 +51,7 @@ Tʜɪs Bᴏᴛ Aʟꜱᴏ Sᴜᴘᴘᴏʀᴛs Cᴜsᴛᴏᴍ Tʜᴜᴍʙɴᴀɪʟ
 ├👨‍💻 Devoloper : <a href=https://t.me/arindam69x>Arindam</a>
 ├❤️ Main Channel : <a href=https://t.me/anime_sprizen>Anime Sprizen</a>
 ├⚡ Bots channel : <a href=https://t.me/Sprizen_bots>Sprizen bots</a>
-├⚡ Support Chat : <a href=https://t.me/Sprizen_support>Sprizen support</a>
+├⚡ Support Chat : <a href=https://t.me/Sprizen_Bot_Support>Sprizen support</a>
 ╰───────────────⍟ """
 
     HELP_TXT = """
