@@ -20,7 +20,7 @@ async def start(client, message):
         InlineKeyboardButton(
             '⚡ Uᴩᴅᴀᴛᴇꜱ', url='https://t.me/Sprizen_Bots'),
         InlineKeyboardButton(
-            '❤️ Sᴜᴩᴩᴏʀᴛ', url='https://t.me/Sprizen_support')
+            '❤️ Sᴜᴩᴩᴏʀᴛ', url='https://t.me/Sprizen_Bot_Support')
     ], [
         InlineKeyboardButton('⚡ Aʙᴏᴜᴛ', callback_data='about'),
         InlineKeyboardButton('❗ Hᴇʟᴩ', callback_data='help')
